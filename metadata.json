@@ -1,0 +1,6 @@
+{
+  "name": "BorutoDEV Hub - Robux Cashout Portal",
+  "description": "BorutoDEV Hub - Automated Roblox Group Robux Payout Portal. Automatic group fund payouts from BD STUDIO (#36092915) directly to player Roblox accounts with zero manual work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
